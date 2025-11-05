@@ -3,7 +3,7 @@
 
 ## En / Ru:
 
-The repository contains folders with two solution variations for the task
+The repository contains folders with three solution variations for the task
 
 Репозиторий содержит папки с тремя вариантами решения задания
 

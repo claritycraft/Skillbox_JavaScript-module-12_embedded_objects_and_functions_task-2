@@ -3,8 +3,7 @@
 
 ## En / Ru:
 
-The repository contains folders with two solution variations for the task
-Репозиторий содержит папки с тремя вариантами решения задания
+The repository contains folders with two solution variations for the task / Репозиторий содержит папки с тремя вариантами решения задания
 
 ### En: Skillbox_JavaScript-module-12_embedded_objects_and_functions_variation-1_task-2
 ### En: Skillbox_JavaScript-module-12_embedded_objects_and_functions_variation-2_task-2
